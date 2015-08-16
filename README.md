@@ -19,6 +19,6 @@ see License file of the bitcoinbook project at https://github.com/aantonop/bitco
 
 original: https://github.com/aantonop/bitcoinbook/blob/develop/images/msbt_0201.png
 
-italian translation: 
+translated (italian): 
 
 ![](https://raw.githubusercontent.com/makevoid/bitcoinbook_translation_it_images/master/bitcoinbook_chap2_panoramica_bitcoin.png)
