@@ -21,4 +21,4 @@ original: https://github.com/aantonop/bitcoinbook/blob/develop/images/msbt_0201.
 
 italian translation: 
 
-https://raw.githubusercontent.com/makevoid/bitcoinbook_translation_it_images/master/bitcoinbook_chap2_panoramica_bitcoin.png
+![](https://raw.githubusercontent.com/makevoid/bitcoinbook_translation_it_images/master/bitcoinbook_chap2_panoramica_bitcoin.png)
